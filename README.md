@@ -1,5 +1,6 @@
-Command line screenshot utility for wayland environments
+# Scotter
 
+Command line screenshot utility for wayland environments
 
 # Functionality
 
