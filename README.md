@@ -13,10 +13,10 @@ Capable of:
 # Screenshots
 
 ## Main menu
-<img src="https://github.com/benarmstead/scotter/blob/main/README_images/demo1.png">
+<img src="https://raw.githubusercontent.com/benarmstead/scotter/main/README_images/demo1.png">
 
 ## Save to file
-<img src="https://github.com/benarmstead/scotter/blob/main/README_images/demo2.png">
+<img src="https://raw.githubusercontent.com/benarmstead/scotter/main/README_images/demo2.png">
 
 # Running
 `git clone https://github.com/benarmstead/scotter/`
