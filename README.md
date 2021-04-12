@@ -43,5 +43,6 @@ On arch linux systems:
 `sudo pacman -S grim slurp jq wl-clipboard`
 
 
-
+---
+[Github](https://github.com/benarmstead/scotter)
 
