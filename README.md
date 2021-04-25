@@ -6,9 +6,9 @@ Command line screenshot utility for wayland environments.
 
 Capable of:
 
- - Taking screenshot of whole screen
- - Selecting area of screen
- - Taking a screenshot of the currently selected window
+ - Taking screenshot of whole screen.
+ - Selecting area of screen.
+ - Taking a screenshot of the currently selected window.
 
 # Screenshots
 
@@ -29,7 +29,7 @@ Capable of:
 
 # Dependancies
 
-Must be run on a wayland environment
+Must be run on a wayland environment.
 
 Programs needed:
 
